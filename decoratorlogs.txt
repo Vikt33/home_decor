@@ -1,0 +1,4 @@
+Дата/время: 2021-09-14 22:04:39.017361
+Имя функции: MyCenerator
+Аргументы: (('test.txt',), {})
+Результат: <generator object MyCenerator at 0x0000029730CEC820>
